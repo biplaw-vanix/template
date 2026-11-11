@@ -1,4 +1,4 @@
-# template
+# Template
 
 A starting kit. Copy it when you add a new part to the project, so every part
 looks the same inside.
@@ -161,4 +161,4 @@ so someone later can tell whether reversing it is safe.
 
 **threshold** - a cut-off used to make a yes/no call, such as "only count it as
 a match above 0.65".
-# template
+
